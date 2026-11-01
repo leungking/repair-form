@@ -1,0 +1,2 @@
+(()=>{const e={n:r=>{const t=r&&r.__esModule?()=>r.default:()=>r;return e.d(t,{a:t}),t},d:(r,t)=>{for(var o in t)e.o(t,o)&&!e.o(r,o)&&Object.defineProperty(r,o,{enumerable:!0,get:t[o]})},o:(e,r)=>Object.prototype.hasOwnProperty.call(e,r)};(()=>{"use strict";const r=flarum.reg.get("core","admin/app");e.n(r)().initializers.add("leungking-repair-form-admin",()=>{})})(),module.exports={}})();
+//# sourceMappingURL=admin.js.map
